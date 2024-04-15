@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image: 
-  logo_width: 100
+  logo_width: 200
 
 menu_settings:
   menu_items:
@@ -15,8 +15,8 @@ menu_settings:
 
 footer_settings:
   logo_image: 
-  logo_width: 100
-  tagline: A beautiful, minimal portfolio Jekyll theme
+  logo_width: 200
+  tagline: Let us handle the boring stuff.
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
