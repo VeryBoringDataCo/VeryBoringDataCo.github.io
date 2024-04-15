@@ -24,8 +24,8 @@ baseurl: /odin # the subpath of your site, e.g. /support
 url: https://teaguns.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
-content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
-use_authors: true #Set this to false to disable showing post authors
+# content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
+use_authors: False #Set this to false to disable showing post authors
 
 brand_logo: https://github.com/VeryBoringDataCo/VeryBoringDataCo.github.io/blob/e865b689236ebdcd871c897fbd9b82c45c505ab3/assets/logo.png
 brand_name: Very Boring Data Co.
